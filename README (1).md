@@ -32,5 +32,5 @@ This project focuses on analyzing Airbnb's platform, addressing various business
 
 **Conclusion**
 
-While the current superhost system may not offer significant advantages, the project proposes revising it along with implementing data-driven strategies to assist hosts in maximizing bookings and revenue. The ultimate goal is to provide a more profitable and efficient platform for hosts and a better, more reliable service for guests.
+While the current superhost system may not offer significant advantages, the project proposes revising it along with implementing data-driven strategies to assist hosts in maximizing bookings and revenue. The ultimate goal is to provide a more profitable and efficient platform for hosts and more reliable service for guests.
 
