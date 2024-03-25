@@ -3,6 +3,7 @@
 **Introduction**
 
 This project focuses on analyzing Airbnb's platform, addressing various business problems, and leveraging data to enhance understanding and decision-making for both hosts and the company.
+
 ![image](https://github.com/AravindTeja35/Redefining-Superhost-Status-Airbnb-/assets/163460197/c408b045-c40b-43e4-bcf1-451891bba9b9)
 
 **Objective**
